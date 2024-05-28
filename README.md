@@ -49,8 +49,10 @@ Uygulama üç ana formdan oluşur:
 
 Uygulamanın arayüzünü göstermek için birkaç ekran görüntüsü ekleyebilirsiniz. Gerçek ekran görüntülerini eklemek markdown dosyasında mümkün olmadığından, nerelere yerleştirileceğini belirtebilirsiniz:
 
-1. Yeni Kullanıcı Ekle Formu: ![image](https://github.com/fastuptime/Contact_Keeper/assets/63351166/bf1bbde7-e0b5-4edb-bd87-d36e185f1f63)
-2. Detaylar Formu: ![image](https://github.com/fastuptime/Contact_Keeper/assets/63351166/f7634909-52f0-4739-b1d6-eb2e98761a92)
+1. Yeni Kullanıcı Ekle Formu:
+ ![image](https://github.com/fastuptime/Contact_Keeper/assets/63351166/bf1bbde7-e0b5-4edb-bd87-d36e185f1f63)
+2. Detaylar Formu:
+![image](https://github.com/fastuptime/Contact_Keeper/assets/63351166/f7634909-52f0-4739-b1d6-eb2e98761a92)
 
 
 ## 🤝 Katkıda Bulunma
